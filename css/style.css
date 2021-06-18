@@ -1,0 +1,195 @@
+body{
+  margin: 0px;
+
+}
+.body{
+  background-color: #BDD2B6;
+}
+.upper{
+  background-color: red;
+  height: 190px;
+  width: auto;
+}
+.sample{
+  background-color: #02475E;
+  height: 200px;
+  width: auto;
+}
+
+
+.op{
+  height: 200px;
+  width: 334px;
+  margin-top: 0px;
+  margin-right: 0px;
+}
+
+.h1{
+  text-align: center;
+  color: #39A6A3;
+text-decoration: underline;
+margin-bottom: 0px;
+
+}
+.img{
+
+  margin-top: 70px;
+  border-radius: 10%;
+  margin-left: 770px;
+}
+.op2{
+text-align: center;
+  margin-bottom: 0px;
+
+    font-family: serif;
+}
+.op3{
+text-align: center;
+font-family: cursive;
+}
+
+.op4{
+  text-align: center;
+  font-family: cursive;
+}
+
+.hr{
+  border: solid;
+  border-top: dotted;
+  border-bottom: none;
+  width: 10%;
+border-width: 6px;
+color: #DFEEEA;
+}
+.sk{
+  display: inline-block;
+  margin-left: 300px;
+  color: #39A6A3;
+  text-decoration: underline;
+}
+
+.panto{
+  display: inline-block;
+  margin-left: 400px;
+  position: relative;
+  margin-right: 10px;
+}
+.pant{
+  display: inline-block;
+  position: absolute;
+  margin-top: 100px;
+  width: 30%
+}
+.rds{
+
+
+
+}
+.rel{
+  display: inline-block;
+  border-radius: 70%;
+}
+
+.rel2{
+width: 30%;
+display: inline-block;
+margin-left: 500px;
+
+
+}
+.ikg{
+  margin-left: 400px;
+  display: inline-block;
+  position: relative;
+
+}
+
+.uni{
+display: inline-block;
+position: absolute;
+margin-top: 190px;
+margin-left: 15px;
+}
+.gif{
+  width: 419px;
+
+}
+
+.mountain{
+  background-color: black;
+  height: auto;
+  width: auto;
+}
+.yo{
+  color:#39A6A3;
+
+text-decoration: underline;
+margin-left: 300px;
+}
+.yup{
+  display: inline-block;
+  margin-left: 460px;
+}
+
+.susy{
+  display: inline-block;
+
+}
+.kpt{
+  display: inline-block;
+  margin-left: 10px;
+  width: 30%;
+}
+.ht{
+  display: inline-block;
+  margin-left: 450px;
+  position: absolute;
+    width: 30%;
+    margin-top: 199px;
+
+
+
+}
+.htp{
+  margin-left: 900px;
+  height: 300px;
+  width: 300px;
+  display: inline-block;
+  position: relative;
+}
+.nt{
+
+}
+.nk{
+  display: inline-block;
+  margin-left: 450px;
+    width: 30%;
+}
+.h8{
+  text-align: center;
+  margin-top: 10%;
+  color: #FAF1E6;
+}
+.gop{
+  width: auto;
+  height: 190px;
+  background-color: #125D98;
+
+}
+.link{
+
+  margin-left: 30px;
+  color: #3EDBF0;
+
+}
+.pink{
+  margin-left: 700px;
+    color: #3EDBF0;
+}
+
+
+.dink{
+  margin-left: 1500px;
+  color: #3EDBF0;
+  margin-top: 300px;
+}
